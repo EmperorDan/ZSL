@@ -40,6 +40,7 @@ Unity, Photoshop, GitHub, and PowerPoint.
 We had to pay £26 for assets to create are game UI. These were essential as they saved us loads of time. The assets were nature themed so they also fit in with the aestetic of the game. The assets were brought on shutterstocks.
 
 ### Quality Assurance Preface
+To assure to are customer ZSL that we are serious. We will attend all scheduled meetings involving the project. We will listen with consideration to the ideas they have. Remembering that it is their idea, and that we have been employed to help see it created. We will regularly test are game and improve upon it where possible. We will eventually present a prototype of are game that will be presented to a panel of judges of ZSL. After this if we're selected to continue working on are game we will set a deadline and aim to have a functional product that meets the criteria set by ZSL.
 
 ### Gantt Chart
 ![](https://i.imgur.com/l2mPkwc.png)
