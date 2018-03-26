@@ -45,7 +45,10 @@ To assure to are customer ZSL that we are serious. We will attend all scheduled 
 ### Gantt Chart
 ![](https://i.imgur.com/l2mPkwc.png)
 
+### Problems encountered
+The main issue we faced when starting this project was how we were going to develop a game that was compatible with IOS. Are concern was that we didnt have access to the IOS platform. This was quickly resolved as are college was willing to loan us multiple IPAD's for testing. This helped immensly as we could test the functionality before presenting.
 
+Another issue we faced was the incorporation of animations into Unity. We found a fix for this by creating them in Adobe Flash Pro, and then converting them using GAF. GAF takes SWF files and converts them to the Unity compatible GAF files. This made the process of creating animations for are game much easier saving us alot of time for more important tasks. 
 
 ### Communication
 Communication was integral during this project. Are main concern being that we would be doing the same jobs, and wasting valuable time. We always respected new ideas and heard them out giving constructive feedback. We later found this benefited are team being able to honestly evaluate eachothers work. We used are computers primarily to contact eachother via facebook, and used voice chat. Mobile phones were a nessecity, its very important that you can be reached at certain points during the project.
