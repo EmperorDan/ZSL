@@ -45,5 +45,7 @@ To assure to are customer ZSL that we are serious. We will attend all scheduled 
 ### Gantt Chart
 ![](https://i.imgur.com/l2mPkwc.png)
 
+
+
 ### Communication
 Communication was integral during this project. Are main concern being that we would be doing the same jobs, and wasting valuable time. We always respected new ideas and heard them out giving constructive feedback. We later found this benefited are team being able to honestly evaluate eachothers work. We used are computers primarily to contact eachother via facebook, and used voice chat. Mobile phones were a nessecity, its very important that you can be reached at certain points during the project.
