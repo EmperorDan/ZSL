@@ -51,6 +51,8 @@ To assure to are customer ZSL that we are serious. We will attend all scheduled 
 
 ### Communication
 Within Team - Communication was integral during this project. Are main concern being that we would be doing the same jobs, and wasting valuable time. We always respected new ideas and heard them out giving constructive feedback. We later found this benefited are team being able to honestly evaluate eachothers work. We used are computers primarily to contact eachother via facebook, and used voice chat. Mobile phones are a necessity, its very important that you can be reached when needed.
+
+
 With ZSL - During are meetings with ZSL we acted proffesionally listening to what Michelle wanted. We exchanged ideas but tryed to keep it focused on theirs. We had open communication with Michelle throughout via email. We were free to ask about subjects relevant to the project, and to bounce ideas back and forth.    
 
 ### Risk
