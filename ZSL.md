@@ -5,7 +5,7 @@ The following document is for the project involving the Zoological Society of Lo
 
 Our game will center around four habitats: Countryside, Rainforest, Ocean, Arctic. There was a product associated with each habitat.  Each habitat will have a specific asthetic inkeeping with its unique themes. For countryside we had to cover the unsustainable beef industry. Following that we had bottles for the ocean habitat. The next one was Rainforest, for this one we had mobile phones. Lastly we had electric items being left on and how thats effecting the arctic.
 
-The players goal is to complete sets of questions which will contribute to the greenhouse chain once completed. As you progress through the game and complete more and more questions the planet will start becoming healthier. This will be represented by a world map that changes state depending on the level of carbon in the atmosphere.
+You will begin by choosing a character from a selection of animals native to the four habitats. The players goal is to complete sets of questions which will contribute to the greenhouse chain once completed. As you progress through the game and complete more and more questions the planet will start becoming healthier. This will be represented by a world map that changes state depending on the level of carbon in the atmosphere.
 
 ### Game Objective
 This documents houses information that is useful for the persons involved. The target audience are 11-12 year olds primarily, with plans of extending it to 11-16, in the future. The app must be engaging, but more importantly informative.
@@ -41,7 +41,6 @@ Communication was integral during this project. Are main concern being that we w
 #### With ZSL
 During are meetings with ZSL we acted proffesionally listening to what Michelle wanted. We exchanged ideas but tryed to keep it focused on theirs. We had open communication with Michelle throughout via email. We were free to ask about subjects relevant to the project, and to bounce ideas back and forth.    
 
-
 ### Risk
 Reboot games is a brand new company. Which means we haven't had a chance to build our reputation. The risk is making a bad impression while working with an organisation such as ZSL. Are goal was to build a rapport with them so there would be a greater chance of them considering us in the future. We will conduct ourselves professionally by arriving to meetings keeping communication with ZSL throughout the process of building the application.
 
@@ -74,7 +73,45 @@ After being approched by ZSL we had a meeting with a representative Michelle. Mi
 ### Gantt Chart 
 ![](https://i.imgur.com/l2mPkwc.png)
 
+### What are epics and user stories?
+#### Epics:
+
+#### User stories:
+
+### Concept Pitch (17/10/17) 
+
+### Adapting to feedback
+
+### Research
+
+### Tools and Techniques
+Tools -
+Photoshop -
+We used Photoshop to create are 4 habitat backgrounds. Which saved us money instead of buying them from a web source which can be expensive. We also used Photoshop to create the maze in are first prototype of our game. Photoshop was also used to create the greenhouse gas meter on the right hand side
+
+Github -
+As a group we used GitHub a lot to trade documentation between all of us as when we were not in class it was harder to send work to each other and we also used it to keep a backup every one uploaded work there and when a certain person needed something they knew where to go. We also used it to make a glossary for the finished ZSL project where we had all are finished documentation
+
+Unity -
+We used Unity to create are application. We figured unity was the best to use as a group of 4 we could all work on it at the same time and then upload it for each other so we could complete it faster. It was also easy to use and had a lot of assists which we used as we were only starting out on the program.
+
+Power Point -
+We used Power Point for are presentations, first when she came in to see are ideas and concept designs we made a short presentation to show off the ideas so it was easy for her to see what are ideas where. We also used Power Point to present are final game to them when we went to Whipsnade zoo. We showed are finished design and how we adapted to feed back. The reason we used Power Point was that it is the simplest and best presentation software out there. We also used Power Point online so all four of us could work on different slides for the certain parts of work that each person did.
+
+Techniques -
+Interviews -
+We had multiple interviews with ZSL. The first one was when Michelle came in to tell us about the project and what she wants at the end of it. We all took notes so that we could get more information from what she was saying as well as off the Power Point she had. The other Interview we did was when we were at ZSL presenting are final game.
+
+Prototyping -
+We used prototyping when was creating are game in Unity we tested everything after doing sections of code and saving backups all the time. We also loaded up separate Unity programs to test certain parts to see if each part was working so if we had a problem when we put it together it would be easier to find the problem
+
+Presentations -
+We presented are game in a presentation as it is easy to get your points across and it captures people’s attention when you are standing at the front of the room and have your presentation behind you. You can also use your body language and speaking skills to help present your work and get it across
+
+### 
+
 ### Problems encountered
 The main issue we faced when starting this project was how we were going to develop a game that was compatible with IOS. Are concern was that we didnt have access to the IOS platform. This was quickly resolved as are college was willing to loan us multiple IPAD's for testing. This helped immensly as we could test the functionality before presenting.
 
 Another issue we faced was the incorporation of animations into Unity. We found a fix for this by creating them in Adobe Flash Pro, and then converting them using GAF. GAF takes SWF files and converts them to the Unity compatible GAF files. This made the process of creating animations for are game much easier saving us alot of time for more important tasks. 
+
