@@ -14,14 +14,7 @@ The theme of this game needed to revolve around four habitats. This gives us alo
 This documents houses information that is useful for the persons involved. The target audience are 11-12 year olds primarily, with plans of extending it to 11-16, in the future. The app must be engaging, but more importantly informative.
 
 ### Time
-
-
-We had 5 weeks Michelle came in to pitch the idea.
-2 weeks to complete all of the required design documentation
-2 weeks we also needed to complete a proposal to demonstrate and show the client our idea
-The 3rd and 4th week were used for the development and construction of the application
-last week was used for testing and finalizing the application
-
+After having are first meeting with ZSL, we found out we had 5 weeks to complete the application. We had 2 weeks from the last meeting to come with design documentation. We also had to put together a presentation for are application to show ZSL are ideas and get their input. The next two weeks were spent constructing are application. Week five was dedicated to testing are application and making any final adjustments, and changes. 
 
 ### Quality Assurance Preface
 To assure to are customer ZSL that we are serious. We will attend all scheduled meetings involving the project. We will listen with consideration to the ideas they have. Remembering that it is their idea, and that we have been employed to help see it created. We will regularly test are game and improve upon it where possible. We will eventually present a prototype of are game that will be presented to a panel of judges of ZSL. After this if we're selected to continue working on are game we will set a deadline and aim to have a functional product that meets the criteria set by ZSL.
@@ -30,9 +23,7 @@ To assure to are customer ZSL that we are serious. We will attend all scheduled 
 Communication was integral during this project. Are main concern being that we would be doing the same jobs, and wasting valuable time. We always respected new ideas and heard them out giving constructive feedback. We later found this benefited are team being able to honestly evaluate eachothers work. We used are computers primarily to contact eachother via facebook, and used voice chat. Mobile phones are a necessity, its very important that you can be reached when needed.
 
 ### Risk
-Reboot games is a brand new company. Which means we haven't had a chance to build our reputation. The risk is making a bad impression while working with an organisation such as ZSL 
-
-Talk about reboot games
+Reboot games is a brand new company. Which means we haven't had a chance to build our reputation. The risk is making a bad impression while working with an organisation such as ZSL. Are goal was to build a rapport with them so there would be a greater chance of them considering us in the future. We will conduct ourselves professionally by arriving to meetings keeping communication with ZSL throughout the process of building the application.
 
 ### Resources
 We used a variety of tools during the development of this app. We used multiple services which included: Unity, Photoshop, GitHub, and PowerPoint. We also had access to computers, ipads. online resources were also available such as shutterstock. Which we used to get the applications UI.
