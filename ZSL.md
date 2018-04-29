@@ -19,24 +19,16 @@ The theme of this game needed to revolve around four habitats. This gives us alo
 
 ### Project aims:
 - To create a fun and educational game.
-
 - To educate students about climate change.
-
 - To make it interactive for the kids to enjoy.
-
 - To raise awareness and how they can help stop climate change.
 
 ### User and software Requirements:
 - Educational game.
-
 - Interactive game.
-
 - Multi-user.
-
 - Simplistic interface.
-
 - Child friendly.
-
 - Compatible with an IPad.
 
 ### Costs
@@ -58,23 +50,14 @@ After having are first meeting with ZSL, we found out we had 5 weeks to complete
 To assure to are customer ZSL that we are serious. We will attend all scheduled meetings involving the project. We will listen with consideration to the ideas they have. Remembering that it is their idea, and that we have been employed to help see it created. We will regularly test are game and improve upon it where possible. We will eventually present a prototype of are game that will be presented to a panel of judges of ZSL. After this if we're selected to continue working on are game we will set a deadline and aim to have a functional product that meets the criteria set by ZSL.
 
 ### Communication
-#### Within Team
-Communication was integral during this project. Are main concern being that we would be doing the same jobs, and wasting valuable time. We always respected new ideas and heard them out giving constructive feedback. We later found this benefited are team being able to honestly evaluate eachothers work. We used are computers primarily to contact eachother via facebook, and used voice chat. Mobile phones are a necessity, its very important that you can be reached when needed.
-#### With ZSL
-During are meetings with ZSL we acted proffesionally listening to what Michelle wanted. We exchanged ideas but tryed to keep it focused on theirs. We had open communication with Michelle throughout via email. We were free to ask about subjects relevant to the project, and to bounce ideas back and forth.    
+Within Team - Communication was integral during this project. Are main concern being that we would be doing the same jobs, and wasting valuable time. We always respected new ideas and heard them out giving constructive feedback. We later found this benefited are team being able to honestly evaluate eachothers work. We used are computers primarily to contact eachother via facebook, and used voice chat. Mobile phones are a necessity, its very important that you can be reached when needed.
+With ZSL - During are meetings with ZSL we acted proffesionally listening to what Michelle wanted. We exchanged ideas but tryed to keep it focused on theirs. We had open communication with Michelle throughout via email. We were free to ask about subjects relevant to the project, and to bounce ideas back and forth.    
 
 ### Risk
 Reboot games is a brand new company. Which means we haven't had a chance to build our reputation. The risk is making a bad impression while working with an organisation such as ZSL. Are goal was to build a rapport with them so there would be a greater chance of them considering us in the future. We will conduct ourselves professionally by arriving to meetings keeping communication with ZSL throughout the process of building the application.
 
 ### Resources
 We used a variety of tools during the development of this app. We used multiple services which included: Unity, Photoshop, GitHub, and PowerPoint. We also had access to computers, ipads. online resources were also available such as shutterstock. Which we used to get the applications UI.
-
-### Goals and Team Roles
-The goal of this project is to create a game centered around the greenhouse chain. The game must be informative, and engaging for young adults. It must follow a storybook style showing you different stages of the greenhouse chain in relative detail. All information must be factual and relevant to each of the four habitats.
-
-- We will begin by planning what we're going to do. We will do this by creating flowcharts, and conceptual mock-ups of are game. This will give us an idea of what are game will look like, and how to code it. We needed to have a presentation completed detailing are game and ideas for ZSL by october time. 
-
-- The final presentation is to be attended by all members of the team. This is because of the importance of the event. Their will be a succesful developer on the panel, making this a potential opportunity.
 
 ### Team Roles
 Daniel Edson: Project Design, Project Research.
@@ -83,6 +66,13 @@ Codrin Axinte: Programmer, Project Research.
 Bec Nash: Project Research, Project Documentation.
 Matthew Kaptur: Project Management, Project Design, Project Documentation.
 
+### Goals and Team Roles
+The goal of this project is to create a game centered around the greenhouse chain. The game must be informative, and engaging for young adults. It must follow a storybook style showing you different stages of the greenhouse chain in relative detail. All information must be factual and relevant to each of the four habitats.
+
+- We will begin by planning what we're going to do. We will do this by creating flowcharts, and conceptual mock-ups of are game. This will give us an idea of what are game will look like, and how to code it. We needed to have a presentation completed detailing are game and ideas for ZSL by october time. 
+
+- The final presentation is to be attended by all members of the team. This is because of the importance of the event. Their will be a succesful developer on the panel, making this a potential opportunity.
+
 ### Aims and Objectives
 - Create a game on the IOS platform.
 - Make game compatible for an IPAD.
@@ -90,15 +80,18 @@ Matthew Kaptur: Project Management, Project Design, Project Documentation.
 - Create a demo of are design and present are ideas to ZSL.
 
 ### First meeting with ZSL (02/10/17)
-After being approched by ZSL we had a meeting with a representative Michelle. Michelle explained 
+After being approched by ZSL we had a meeting with a representative Michelle. Michelle explained what she and her colleagues wanted from this application. She gave us a long talk on our effects to the environment. The talk was very informative and we all got relevant notes.
 
 ### Gantt Chart 
 ![](https://i.imgur.com/l2mPkwc.png)
 
-### What are epics and user stories?
-#### Epics:
+### Work breakdown structure
+![](https://i.imgur.com/iid0JQy.png)
 
-#### User stories:
+### What are epics and user stories?
+Epics - Epics are what are user wants ultimately. While working with ZSL we were told to make an application to educate children of their carbon footprint. So one epic would be "As a user i want to learn about the effect im having on the environment" The stories are coming from the perspective of the child user and what they want.
+
+User stories - User stories are what the user wants. User stories are what contribute to making an epic. You take your epic and break it down into various user stories relating to your application. From "As a user i want to learn about the effect im having on the environment" you could take for example "As a user i want to see the impact on the enviroment". Another one could be "As a user i want to be able to select from four different habitats".
 
 ### Concept Pitch (17/10/17) 
 After getting an idea of what we wanted it was time to show our client. A meeting was arranged at ZSL Whipsnade which was fortunately not very far from are college. We put together a powerpoint displaying how far we had come and what are plans were. It contained information about the UI, the Machanics and screenshots of it in action. After finishing are presentation we were given feedback from two associates of ZSL.
@@ -138,7 +131,11 @@ Prototyping - We created prototype of are game and tested them for bugs on unity
 
 Presentations - When presenting your work its important to maintain eye contact with your audience. You want to smile and project your voice just enough that everyone can clearly hear what your saying. It's important to revise what you will be covering during the presentation so that you dont stumble during. Your audience will pick up on your body language so it's important to be relaxed.
 
-### 
+### Importance of team dynamics in the success and/or failure of group work
+
+
+### My role
+
 
 ### Problems encountered
 The main issue we faced when starting this project was how we were going to develop a game that was compatible with IOS. Are concern was that we didnt have access to the IOS platform. This was quickly resolved as are college was willing to loan us multiple IPAD's for testing. This helped immensly as we could test the functionality before presenting.
