@@ -17,6 +17,15 @@ The incentive of this project was to educate children on the effects of greenhou
 
 The theme of this game needed to revolve around four habitats. This gives us alot of choice visually, but can be hard to stay consistant. They wanted the recurrent theme to be the greenhouse gas chain. We also needed to build this game to function on an IPAD, as this was what they had in use. 
 
+### Costs
+Detailed below are the costs involved in the making of this application:
+- The computer systems at college cost £2000 including screens. Multiply that by 5 for all of us and you have £10000.
+- Unity pro was the main tool used during development which per person costs £130. So for five of us that would make £650.
+- We used Adobe photoshop at college with subscription costs ranging from £15-£40. For all of us its £75-£200. I use it at home aswell and pay £16.50. 
+- Microsoft services cost £60 annually. Costing £300 considering they're are five members. 
+- We had to pay £26 for assets to create are game UI. These were essential as they saved us loads of time. The assets were nature themed so they also fit in with the aestetic of the game. The assets were bought on shutterstocks.
+- There were costs for travel to meetings, also time spent working. 
+
 ### Scope
 With a limited time span of 5 weeks. We were set the task of creating a engaging educational application. This application was to be used by ZSL in their regular educational sessions with children. We needed to be able to provide a prototype in 2 weeks so had to keep focus only on what was nessecary. After establishing what we were going to do we wanted to stay on track so as to counteract mistakes or changes further down the line.
 
@@ -29,7 +38,6 @@ To assure to are customer ZSL that we are serious. We will attend all scheduled 
 ### Communication
 #### Within Team
 Communication was integral during this project. Are main concern being that we would be doing the same jobs, and wasting valuable time. We always respected new ideas and heard them out giving constructive feedback. We later found this benefited are team being able to honestly evaluate eachothers work. We used are computers primarily to contact eachother via facebook, and used voice chat. Mobile phones are a necessity, its very important that you can be reached when needed.
-
 #### With ZSL
 During are meetings with ZSL we acted proffesionally listening to what Michelle wanted. We exchanged ideas but tryed to keep it focused on theirs. We had open communication with Michelle throughout via email. We were free to ask about subjects relevant to the project, and to bounce ideas back and forth.    
 
@@ -59,9 +67,6 @@ Matthew Kaptur: Project Management, Project Design, Project Documentation.
 - Make game compatible for an IPAD.
 - 4 unique habitats have to be included in the game.
 - Create a demo of are design and present are ideas to ZSL.
-
-### Costs
-We had to pay £26 for assets to create are game UI. These were essential as they saved us loads of time. The assets were nature themed so they also fit in with the aestetic of the game. The assets were bought on shutterstocks.
 
 ### First meeting with ZSL (02/10/17)
 After being approched by ZSL we had a meeting with a representative Michelle. Michelle explained 
