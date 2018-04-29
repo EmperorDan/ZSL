@@ -17,6 +17,28 @@ The incentive of this project was to educate children on the effects of greenhou
 
 The theme of this game needed to revolve around four habitats. This gives us alot of choice visually, but can be hard to stay consistant. They wanted the recurrent theme to be the greenhouse gas chain. We also needed to build this game to function on an IPAD, as this was what they had in use. 
 
+### Project aims:
+- To create a fun and educational game.
+
+- To educate students about climate change.
+
+- To make it interactive for the kids to enjoy.
+
+- To raise awareness and how they can help stop climate change.
+
+### User and software Requirements:
+- Educational game.
+
+- Interactive game.
+
+- Multi-user.
+
+- Simplistic interface.
+
+- Child friendly.
+
+- Compatible with an IPad.
+
 ### Costs
 Detailed below are the costs involved in the making of this application:
 - The computer systems at college cost £2000 including screens. Multiply that by 5 for all of us and you have £10000.
@@ -79,34 +101,42 @@ After being approched by ZSL we had a meeting with a representative Michelle. Mi
 #### User stories:
 
 ### Concept Pitch (17/10/17) 
+After getting an idea of what we wanted it was time to show our client. A meeting was arranged at ZSL Whipsnade which was fortunately not very far from are college. We put together a powerpoint displaying how far we had come and what are plans were. It contained information about the UI, the Machanics and screenshots of it in action. After finishing are presentation we were given feedback from two associates of ZSL.
 
-### Adapting to feedback
+#### Feedback
+- Don't humanise the animal characters by giving them human clothes.
+- Link are application more with the greenhouse chain.
+- Have shorter questions as they are not suitable for younger users.
+- Loved our UI and liked the idea of seeing the effects on the world map.
+
+We had lost sight of the main task, which was have the greenhouse chain as a central focus. We also had problems with are questions being to complex. Children wouldn't have enough time to complete it in the sessions.
+
+#### Adapting to feedback
+- "Don't humanise the animal characters by giving them human clothes." - This was an easy fix since it was purely asthetic we could remove it without risk.
+- "Link are application more with the greenhouse chain." - We made are sets of questions directly link to the respected greenhouse gas chain.
+- "Have shorter questions as they are not suitable for younger users." - We re-visited are questions and edited, or replaced them to be more user friendly.
 
 ### Research
+Michelle provided us with a wealth of information regarding the subject matter. We were given lists of animals native to the habitats involved. We were given a talk on climate change and the effect we have, however small, on are planet. This talk provided us with a greater understanding of the subject matter. We were also sent documentation detailing the greenhouse chain.
 
 ### Tools and Techniques
-Tools -
-Photoshop -
-We used Photoshop to create are 4 habitat backgrounds. Which saved us money instead of buying them from a web source which can be expensive. We also used Photoshop to create the maze in are first prototype of our game. Photoshop was also used to create the greenhouse gas meter on the right hand side
+#### Tools
+Adobe flash - We used to this to create animations for are application. We found a way of converting them to an acceptable format for unity. 
 
-Github -
-As a group we used GitHub a lot to trade documentation between all of us as when we were not in class it was harder to send work to each other and we also used it to keep a backup every one uploaded work there and when a certain person needed something they knew where to go. We also used it to make a glossary for the finished ZSL project where we had all are finished documentation
+Photoshop - We used photoshop to edit pictures and assets for are application. We also created the UI, and the characters using it.
 
-Unity -
-We used Unity to create are application. We figured unity was the best to use as a group of 4 we could all work on it at the same time and then upload it for each other so we could complete it faster. It was also easy to use and had a lot of assists which we used as we were only starting out on the program.
+Github - We kept a record of are work on Github and update it regularly with information regarding our product.
 
-Power Point -
-We used Power Point for are presentations, first when she came in to see are ideas and concept designs we made a short presentation to show off the ideas so it was easy for her to see what are ideas where. We also used Power Point to present are final game to them when we went to Whipsnade zoo. We showed are finished design and how we adapted to feed back. The reason we used Power Point was that it is the simplest and best presentation software out there. We also used Power Point online so all four of us could work on different slides for the certain parts of work that each person did.
+Unity - Unity was our design tool to create the game. This software was essential as it let of save are project to a cloud to be accessed by all are team members.
 
-Techniques -
-Interviews -
-We had multiple interviews with ZSL. The first one was when Michelle came in to tell us about the project and what she wants at the end of it. We all took notes so that we could get more information from what she was saying as well as off the Power Point she had. The other Interview we did was when we were at ZSL presenting are final game.
+Power Point - We used powerpoint to exhibit are game twice to ZSL. It's very simple to work with and allows you to produce a professional presentation.   
 
-Prototyping -
-We used prototyping when was creating are game in Unity we tested everything after doing sections of code and saving backups all the time. We also loaded up separate Unity programs to test certain parts to see if each part was working so if we had a problem when we put it together it would be easier to find the problem
+#### Techniques
+Interviews - We had two interviews with ZSL. The first took place in our college where we were given a talk on climate change. We wrote relevant notes down for future reference and listened to user requirements. The second meeting took place in ZSL whipsnade. We had to show are progress to Michelle and her colleague. After are presentation we had to discuss what may need to change. This was an important time. This being because we wouldnt get face-to-face feedback again until we presented the final product. This meant it was very important to listen to the client closely, and make sure we were still on track.
 
-Presentations -
-We presented are game in a presentation as it is easy to get your points across and it captures people’s attention when you are standing at the front of the room and have your presentation behind you. You can also use your body language and speaking skills to help present your work and get it across
+Prototyping - We created prototype of are game and tested them for bugs on unity. We wanted to make are game fluid and user friendly. To do this we had to make are application functional. We suffered from start up issues and slow speeds. But we weren't able to rectify these problems in time.
+
+Presentations - When presenting your work its important to maintain eye contact with your audience. You want to smile and project your voice just enough that everyone can clearly hear what your saying. It's important to revise what you will be covering during the presentation so that you dont stumble during. Your audience will pick up on your body language so it's important to be relaxed.
 
 ### 
 
