@@ -150,7 +150,7 @@ Prototyping - We created prototype of are game and tested them for bugs on unity
 Presentations - When presenting your work its important to maintain eye contact with your audience. You want to smile and project your voice just enough that everyone can clearly hear what your saying. It's important to revise what you will be covering during the presentation so that you dont stumble during. Your audience will pick up on your body language so it's important to be relaxed.
 
 #### Supporting Documents
-https://drive.google.com/open?id=1_HBJmlIq9jWw9H6BAUIsB4UKSpSKzKvB
+https://docs.google.com/presentation/d/1-uH4m4yuAJkN1vaEu_7JSOXPNIoT0_U0WRmbBpS0R4c/edit?usp=sharing
 
 ### Explain how user and software Requirements
 software requirements were given to us by our client ZSL. When we first met with ZSL they gave us information on what they wanted in thier product. They gave us a brief for the project. After reading through it we created Epics which were the central focus while developing our application. We then took our Epics and broke them down into User Stories. To create the user stories we had to keep the epic in mind and break it down into smaller stories such as "as a user i want to learn about the four habitats".
