@@ -38,9 +38,11 @@ The theme of this game needed to revolve around four habitats. This gives us alo
 - Research the compatibility of the sofware we will be using. 
 
 ### Qualitative and quantitative research methods
+#### Qualitative
 
+#### Quantitative
 
-### Communicate appropriate recommendations as a result of research and data analysis to draw valid and meaningful conclusions
+### Communicate Appropriate Recommendations as a Result of Research and Data Analysis to Draw Valid and Meaningful Conclusions
 
 
 ### User and software Requirements:
@@ -151,6 +153,7 @@ Presentations - When presenting your work its important to maintain eye contact 
 
 #### Supporting Documents
 https://docs.google.com/presentation/d/1-uH4m4yuAJkN1vaEu_7JSOXPNIoT0_U0WRmbBpS0R4c/edit?usp=sharing
+Above is a link to the presentation we used at the concept pitch at ZSL Whipsnade on 17/10/17. It describes are game and how it functions. It also has storyboards showing how the game plays.
 
 ### Explain how user and software Requirements
 software requirements were given to us by our client ZSL. When we first met with ZSL they gave us information on what they wanted in thier product. They gave us a brief for the project. After reading through it we created Epics which were the central focus while developing our application. We then took our Epics and broke them down into User Stories. To create the user stories we had to keep the epic in mind and break it down into smaller stories such as "as a user i want to learn about the four habitats".
