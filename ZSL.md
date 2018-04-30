@@ -100,11 +100,11 @@ After being approched by ZSL we had a meeting with a representative Michelle. Mi
 ### Gantt Chart 
 ![](https://i.imgur.com/l2mPkwc.png)
 
-### Work breakdown structure
-![](https://i.imgur.com/iid0JQy.png)
+### Burn Down Chart
+![](https://i.imgur.com/Xu3K2TG.png)
 
-### Sprint Backlog
-![]()
+### Work Breakdown Structure
+![](https://i.imgur.com/iid0JQy.png)
 
 ### What are epics and user stories?
 Epics - Epics are what are user wants ultimately. While working with ZSL we were told to make an application to educate children of their carbon footprint. So one epic would be "As a user i want to learn about the effect im having on the environment" The stories are coming from the perspective of the child user and what they want.
@@ -148,6 +148,9 @@ Interviews - We had two interviews with ZSL. The first took place in our college
 Prototyping - We created prototype of are game and tested them for bugs on unity. We wanted to make are game fluid and user friendly. To do this we had to make are application functional. We suffered from start up issues and slow speeds. But we weren't able to rectify these problems in time.
 
 Presentations - When presenting your work its important to maintain eye contact with your audience. You want to smile and project your voice just enough that everyone can clearly hear what your saying. It's important to revise what you will be covering during the presentation so that you dont stumble during. Your audience will pick up on your body language so it's important to be relaxed.
+
+#### Supporting Documents
+https://drive.google.com/open?id=1_HBJmlIq9jWw9H6BAUIsB4UKSpSKzKvB
 
 ### Explain how user and software Requirements
 software requirements were given to us by our client ZSL. When we first met with ZSL they gave us information on what they wanted in thier product. They gave us a brief for the project. After reading through it we created Epics which were the central focus while developing our application. We then took our Epics and broke them down into User Stories. To create the user stories we had to keep the epic in mind and break it down into smaller stories such as "as a user i want to learn about the four habitats".
