@@ -22,6 +22,20 @@ The theme of this game needed to revolve around four habitats. This gives us alo
 - To educate students about climate change.
 - To make it interactive for the kids to enjoy.
 - To raise awareness and how they can help stop climate change.
+- Create a game on the IOS platform.
+- Make game compatible for an IPAD.
+- 4 unique habitats have to be included in the game.
+- Create a demo of are design and present are ideas to ZSL.
+
+### Objectives:
+- We will take notes during the whole process for future reference, and understanding.
+- During meetings with ZSL ask about their audience in detail. Take notes. 
+- Research in detail the habitats and products involved with this project.
+- Matthew Kaptur and olliver slape will be creating animations.
+- I will be designing the animal characters. This task is not a priority.
+- We will research UI assets so that we can cut are design time in half.
+- We will speak with the college to try to organise the use of their IPADs.
+- Research the compatibility of the sofware we will be using. 
 
 ### User and software Requirements:
 - Educational game.
@@ -63,10 +77,10 @@ We used a variety of tools during the development of this app. We used multiple 
 
 ### Team Roles
 Daniel Edson: Project Design, Project Research.
-Oliver Slape: Programmer, Project Research.
+Oliver Slape: Programmer, Project Research, Animation.
 Codrin Axinte: Programmer, Project Research.
 Bec Nash: Project Research, Project Documentation.
-Matthew Kaptur: Project Management, Project Design, Project Documentation.
+Matthew Kaptur: Project Management, Project Design, Project Documentation, Animation.
 
 ### Goals and Team Roles
 The goal of this project is to create a game centered around the greenhouse chain. The game must be informative, and engaging for young adults. It must follow a storybook style showing you different stages of the greenhouse chain in relative detail. All information must be factual and relevant to each of the four habitats.
@@ -74,12 +88,6 @@ The goal of this project is to create a game centered around the greenhouse chai
 - We will begin by planning what we're going to do. We will do this by creating flowcharts, and conceptual mock-ups of are game. This will give us an idea of what are game will look like, and how to code it. We needed to have a presentation completed detailing are game and ideas for ZSL by october time. 
 
 - The final presentation is to be attended by all members of the team. This is because of the importance of the event. Their will be a succesful developer on the panel, making this a potential opportunity.
-
-### Aims and Objectives
-- Create a game on the IOS platform.
-- Make game compatible for an IPAD.
-- 4 unique habitats have to be included in the game.
-- Create a demo of are design and present are ideas to ZSL.
 
 ### First meeting with ZSL (02/10/17)
 After being approched by ZSL we had a meeting with a representative Michelle. Michelle explained what she and her colleagues wanted from this application. She gave us a long talk on our effects to the environment. The talk was very informative and we all got relevant notes.
@@ -89,6 +97,9 @@ After being approched by ZSL we had a meeting with a representative Michelle. Mi
 
 ### Work breakdown structure
 ![](https://i.imgur.com/iid0JQy.png)
+
+### Sprint Backlog
+![]()
 
 ### What are epics and user stories?
 Epics - Epics are what are user wants ultimately. While working with ZSL we were told to make an application to educate children of their carbon footprint. So one epic would be "As a user i want to learn about the effect im having on the environment" The stories are coming from the perspective of the child user and what they want.
