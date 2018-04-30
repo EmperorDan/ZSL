@@ -44,7 +44,7 @@ The theme of this game needed to revolve around four habitats. This gives us alo
 
 
 ### User and software Requirements:
-- Educational game.
+- Educational game - do more
 - Interactive game.
 - Multi-user.
 - Simplistic interface.
