@@ -37,6 +37,9 @@ The theme of this game needed to revolve around four habitats. This gives us alo
 - We will speak with the college to try to organise the use of their IPADs.
 - Research the compatibility of the sofware we will be using. 
 
+### Qualitative and quantitative research methods
+
+
 ### User and software Requirements:
 - Educational game.
 - Interactive game.
