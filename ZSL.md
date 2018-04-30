@@ -40,6 +40,9 @@ The theme of this game needed to revolve around four habitats. This gives us alo
 ### Qualitative and quantitative research methods
 
 
+### Communicate appropriate recommendations as a result of research and data analysis to draw valid and meaningful conclusions
+
+
 ### User and software Requirements:
 - Educational game.
 - Interactive game.
