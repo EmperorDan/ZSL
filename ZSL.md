@@ -44,21 +44,20 @@ The theme of this game needed to revolve around four habitats. This gives us alo
 
 
 ### User and software Requirements:
-- Educational game - do more
-- Interactive game.
-- Multi-user.
-- Simplistic interface.
-- Child friendly.
-- Compatible with an IPad.
+- Educational game - It is very important that the application stays relevant to the subject of the greenhouse chain. It must be informative and address the impact that individuals have on the environment. 
+- Interactive game - We must make our game interactive by adding educational activities such as: Quizes, puzzles, ect. 
+- Multi-user - The game must be accessible by multiple users, as ZSL Whipsnade has a limited amount of iPads. 
+- Simplistic interface - The UI must be child friendly and easily negogiated as they are on a time schedule in sessions. 
+- Compatible with an iPad - Must run in a browser and must be compatible with IOS 10. 
 
 ### Costs
 Detailed below are the costs involved in the making of this application:
-- The computer systems at college cost £2000 including screens. Multiply that by 5 for all of us and you have £10000.
-- Unity pro was the main tool used during development which per person costs £130. So for five of us that would make £650.
-- We used Adobe photoshop at college with subscription costs ranging from £15-£40. For all of us its £75-£200. I use it at home aswell and pay £16.50. 
-- Microsoft services cost £60 annually. Costing £300 considering they're are five members. 
+- The computer systems at college cost £2000 including screens individually, and £10000 collectively for our team.
+- Unity pro was the main tool used during development which per person costs £130, and £650 collectively for our team.
+- We used Adobe photoshop at college with subscription costs ranging from £15-£40, and £75-£200 collectively for our team. I also use it at home and pay £16.50. 
+- Microsoft services cost £60 annually, and £300 collectively for our team. 
 - We had to pay £26 for assets to create are game UI. These were essential as they saved us loads of time. The assets were nature themed so they also fit in with the aestetic of the game. The assets were bought on shutterstocks.
-- There were costs for travel to meetings, also time spent working. 
+- There were costs for travel to meetings, and time spent working. 
 
 ### Scope
 With a limited time span of 5 weeks. We were set the task of creating a engaging educational application. This application was to be used by ZSL in their regular educational sessions with children. We needed to be able to provide a prototype in 2 weeks so had to keep focus only on what was nessecary. After establishing what we were going to do we wanted to stay on track so as to counteract mistakes or changes further down the line.
