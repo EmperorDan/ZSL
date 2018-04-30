@@ -136,9 +136,6 @@ Presentations - When presenting your work its important to maintain eye contact 
 ### Importance of team dynamics in the success and/or failure of group work
 
 
-### My role
-
-
 ### Problems encountered
 The main issue we faced when starting this project was how we were going to develop a game that was compatible with IOS. Are concern was that we didnt have access to the IOS platform. This was quickly resolved as are college was willing to loan us multiple IPAD's for testing. This helped immensly as we could test the functionality before presenting.
 
