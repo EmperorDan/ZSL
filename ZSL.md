@@ -113,7 +113,9 @@ The above Gantt chart has been broken down into four sections: Analysis, Design,
 
 ### Burn Down Chart
 ![](https://i.imgur.com/Xu3K2TG.png)
-While a burn down chart may be used with various work methodologies, it is used most often with S.C.R.U.M. 
+Burn down charts are used during the development process. They are used to assess how much work is left, and to set dates for completion. A burn down chart is to While a burn down chart may be used with various work methodologies, it is used most often with S.C.R.U.M. 
+
+
 
 ### Work Breakdown Structure
 ![](https://i.imgur.com/iid0JQy.png)
