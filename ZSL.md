@@ -71,10 +71,16 @@ After having are first meeting with ZSL, we found out we had 5 weeks to complete
 To assure to are customer ZSL that we are serious. We will attend all scheduled meetings involving the project. We will listen with consideration to the ideas they have. Remembering that it is their idea, and that we have been employed to help see it created. We will regularly test are game and improve upon it where possible. We will eventually present a prototype of are game that will be presented to a panel of judges of ZSL. After this if we're selected to continue working on are game we will set a deadline and aim to have a functional product that meets the criteria set by ZSL.
 
 ### Communication
-Within Team - Communication was integral during this project. Are main concern being that we would be doing the same jobs, and wasting valuable time. We always respected new ideas and heard them out giving constructive feedback. We later found this benefited are team being able to honestly evaluate eachothers work. We used are computers primarily to contact eachother via facebook, and used voice chat. Mobile phones are a necessity, its very important that you can be reached when needed.
+**Within Team** - Communication was integral during this project. Are main concern being that we would be doing the same jobs, and wasting valuable time. We always respected new ideas and heard them out giving constructive feedback. We later found this benefited are team being able to honestly evaluate eachothers work. We used are computers primarily to contact eachother via facebook, and used voice chat. Mobile phones are a necessity, its very important that you can be reached when needed.
 
 
-With ZSL - During are meetings with ZSL we acted proffesionally listening to what Michelle wanted. We exchanged ideas but tryed to keep it focused on theirs. We had open communication with Michelle throughout via email. We were free to ask about subjects relevant to the project, and to bounce ideas back and forth.    
+**With ZSL** - During are meetings with ZSL we acted proffesionally listening to what Michelle wanted. We exchanged ideas but tryed to keep it focused on theirs. We had open communication with Michelle throughout via email. We were free to ask about subjects relevant to the project, and to bounce ideas back and forth.   
+
+**Verbal**
+
+**Non-Verbal**
+
+**Body language**
 
 ### Risk
 Reboot games is a brand new company. Which means we haven't had a chance to build our reputation. The risk is making a bad impression while working with an organisation such as ZSL. Are goal was to build a rapport with them so there would be a greater chance of them considering us in the future. We will conduct ourselves professionally by arriving to meetings keeping communication with ZSL throughout the process of building the application.
@@ -101,9 +107,13 @@ After being approched by ZSL we had a meeting with a representative Michelle. Mi
 
 ### Gantt Chart 
 ![](https://i.imgur.com/l2mPkwc.png)
+A gantt chart is used to map the goals you want to achieve, within the timescale you've set for your self/team. This is done before starting to give you a plan of how you might proceed. It is not definitive and is open to change throughout the process, but it gives your project a structure.
+
+The above Gantt chart has been broken down into four sections: Analysis, Design, Development, and finally Testing. Each section is broken down into smaller, more digestable chunks. This helped bring perspective to us on how our time would be divided. With this insight we could properly delegate tasks between us. Knowing we had a set time to complete certain tasks helped us stay on track.
 
 ### Burn Down Chart
 ![](https://i.imgur.com/Xu3K2TG.png)
+While a burn down chart may be used with various work methodologies, it is used most often with S.C.R.U.M. 
 
 ### Work Breakdown Structure
 ![](https://i.imgur.com/iid0JQy.png)
