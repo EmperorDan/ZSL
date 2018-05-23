@@ -37,13 +37,6 @@ The theme of this game needed to revolve around four habitats. This gives us alo
 - We will speak with the college to try to organise the use of their IPADs.
 - Research the compatibility of the sofware we will be using. 
 
-### Qualitative and quantitative research methods
-#### Qualitative
-
-#### Quantitative
-
-### Communicate Appropriate Recommendations as a Result of Research and Data Analysis to Draw Valid and Meaningful Conclusions
-
 
 ### User and software Requirements:
 - Educational game - It is very important that the application stays relevant to the subject of the greenhouse chain. It must be informative and address the impact that individuals have on the environment. 
@@ -78,9 +71,20 @@ To assure to are customer ZSL that we are serious. We will attend all scheduled 
 
 **Verbal**
 
-**Non-Verbal**
+
+Verbal communication takes many forms: Conference calls, One-on-one, group settings, ect. Verbal communication is integral to almost everything. It is the most effective way of conveying a point, and or explaining something to someone. 
 
 **Body language**
+
+
+Body language goes hand-in-hand with Verbal communication. The benefits of speaking with someone face-to-face are seen through their body language. You can gauge how well someone is understanding/liking what your saying. This gives you more honest results, especially, when working with a group.
+
+
+**Written Communication**
+
+
+Written Communication is very important when working with others. All your documents and files that provide explanations, and records, are invaluable when someone joins your team. Without the records and documents your team would very easily lose track of what, and why they're doing something.
+
 
 ### Risk
 Reboot games is a brand new company. Which means we haven't had a chance to build our reputation. The risk is making a bad impression while working with an organisation such as ZSL. Are goal was to build a rapport with them so there would be a greater chance of them considering us in the future. We will conduct ourselves professionally by arriving to meetings keeping communication with ZSL throughout the process of building the application.
